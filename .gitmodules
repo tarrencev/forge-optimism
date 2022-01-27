@@ -1,3 +1,6 @@
 [submodule "/Users/tarrence/code/forge-optimism/lib/ds-test"]
 	path = /Users/tarrence/code/forge-optimism/lib/ds-test
 	url = https://github.com/dapphub/ds-test
+[submodule "/Users/tarrence/code/forge-optimism/lib/forge-std"]
+	path = /Users/tarrence/code/forge-optimism/lib/forge-std
+	url = https://github.com/brockelmore/forge-std
