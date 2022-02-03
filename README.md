@@ -2,6 +2,12 @@
 
 Forge Optimism is a collection of helpful contracts for use with forge and foundry. It leverages forge's cheatcodes to allow tests to easily setup and manipulation optimism predeploys.
 
+## Installation
+
+```bash
+forge install tarrencev/forge-optimism
+```
+
 ## Contracts
 
 `src/OptimismTest.sol`
